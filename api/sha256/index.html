@@ -21,7 +21,7 @@
       // Convert buffer to hex string
       const hashArray = Array.from(new Uint8Array(hashBuffer));
       const hashHex = hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
-      result = { encoded: hashHex };
+      result = { original: input, encoded: hashHex };
     } else {
       result = { error: "No valid parameter provided. Use ?encode=yourText or ?decode=yourHash" };
     }
