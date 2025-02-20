@@ -1,6 +1,5 @@
-# Online Tools
-Please go to [Online Tools](https://emn178.github.io/online-tools/)
+# Web Tools
+Please go to [Online Tools](https://subparlou.github.io/web-tools/)
 
 ## Contact
-The project's website is located at https://github.com/emn178/online-tools  
-Author: emn178@gmail.com
+The project's website is located at https://github.com/SubParLou/web-tools
